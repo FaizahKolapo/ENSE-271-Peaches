@@ -9,4 +9,4 @@ Meet us. Our team members are:
 - So far, you will see our files throughout the planning and execution phase of this project
 
 
-- Visit our final website [here](peaches.softsys.ca)
+- Visit our final website here: https://peaches.softsys.ca/
